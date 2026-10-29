@@ -1,0 +1,227 @@
+{
+  "slug": "macron-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 377,
+  "first": "2026-05-24",
+  "last": "2026-10-28",
+  "exact_time": 377,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "failures": [],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies",
+      "sha256": "de6c1ded7af67bed5b88f462928892bbf2339cc981a4a9e9a8213472214bf69d",
+      "timeline_items": 20,
+      "accepted": 20,
+      "excluded": {}
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__-sLAAIAAAATMjEwOTg4NjczODY2MzM4MzExOQgAAwAAAAIAAA",
+      "sha256": "a14395226be093f2f0ddc184be9a91a2e2a0d642221710cbc13943445cfb7a0c",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__9cLAAIAAAATMjEwNDkxNjU3NjI4MTUzMDY2MggAAwAAAAIAAA",
+      "sha256": "a4f1516732725c328e244130efdd004e28786b1a4f01415a304fa6c3297354cc",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__8MLAAIAAAATMjEwMjY1MDQyMDIyNTMxOTM2NAgAAwAAAAIAAA",
+      "sha256": "715e5d300729d1dbb9cf90b99fe849996a27c021476879c032b93821611df36c",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__68LAAIAAAATMjEwMTI2ODQyNzc4ODc1MDg2NQgAAwAAAAIAAA",
+      "sha256": "7c28dac2cadd3b27bbf2f0ebaa3a6332f41d897356a99bbf1b69b52f1422cd4d",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__5sLAAIAAAATMjA5Nzc1Mzg1OTQwMTY1ODcyOAgAAwAAAAIAAA",
+      "sha256": "21f538ca95944c1d90c568df2c4f7c915b72d6e7a3981c9b3f1a74df752abe61",
+      "timeline_items": 22,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1,
+        "other-author-or-unverified": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__4cLAAIAAAATMjA5NTI3MzkyNjM2ODY0MTE5MggAAwAAAAIAAA",
+      "sha256": "47b78deb3f4d24eed33cc191355d776ed787ad43f675b46da991fe5d5ad149d8",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__3MLAAIAAAATMjA5MTY1Mzg5MDU5NjkxMzM2MAgAAwAAAAIAAA",
+      "sha256": "38ad7cc63c973478ff212478eca5fbb26edd8e9cc3188a04627b870a0255e2c7",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__18LAAIAAAATMjA4MzE3NTgxMDc2NTA5NTM4OAgAAwAAAAIAAA",
+      "sha256": "55be344316faae68da420365e6eb8a6e49c6fae850cedddcc1f251220b3abb6d",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__0sLAAIAAAATMjA4MTExODEwODA2NDg1ODU3NAgAAwAAAAIAAA",
+      "sha256": "bdbaa8cb8ddfd95b11a0fd96b3fba9a5da843130725513ddbbcc7b9af3c7ab77",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__zcLAAIAAAATMjA3NzQ0NzIwMjk1MjMzOTc4NAgAAwAAAAIAAA",
+      "sha256": "ca0b4282af6ce3233b51fc53980b7925a89090bb7ca3eb78128b2767405bdf24",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__yMLAAIAAAATMjA3NjY2MDQxNjQ3NDcwNjM2OQgAAwAAAAIAAA",
+      "sha256": "5100a3c657bcc94aa3df5df3dd9025dc899193f7e35fd4e5401d0713046a8ee5",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__w8LAAIAAAATMjA3NDU5NDE0Njg1NDA1NjE1MggAAwAAAAIAAA",
+      "sha256": "d80a5f10f35e7b2278dfbb616eea52972207c766bfc258b4815a3de8c879349d",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__vsLAAIAAAATMjA3MDA4MTI3OTQ4MDAxMzE3NggAAwAAAAIAAA",
+      "sha256": "50975f0bfb35a505e34d1c29503984eb05f7b29e1183f42d5fe8c96b2130c756",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__ucLAAIAAAATMjA2NzcxNTk5NjM3NTE5NTY2OAgAAwAAAAIAAA",
+      "sha256": "342db09b576f219d0d2b450b8858a50c61f357c2461f6835f765f7e573e97648",
+      "timeline_items": 21,
+      "accepted": 15,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__tMLAAIAAAATMjA2NjkyNzU1MjE2MjE0MDI4MggAAwAAAAIAAA",
+      "sha256": "daa9f1eba21442c722403c3231f0a603626bea4da735f17b5042f51aa79ef827",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__r8LAAIAAAATMjA2NjQ4MDQyMjI1MTU4OTk0NwgAAwAAAAIAAA",
+      "sha256": "b57cbef2bfc2fb7ab32815a9cdf8073e1262e272295bd61f5e12cdb0ea43d6b7",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__qsLAAIAAAATMjA2NDQ1OTY5ODg1NDY0NTc2MwgAAwAAAAIAAA",
+      "sha256": "460f154e3faed984ecca6f3da8158b7a23914ca98bda5d5b927ec3ccf88f734f",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__pcLAAIAAAATMjA2MTgzNTU4MDc0MTIxNDQ4MwgAAwAAAAIAAA",
+      "sha256": "57dc356ed4c66506f4f9ef92d24c9067688027fcd516a9c9e1393a0ce9b0fe99",
+      "timeline_items": 21,
+      "accepted": 20,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/EmmanuelMacron/with_replies?cursor=DAAHCgABHVwYz2I__oMLAAIAAAATMjA2MTQ1MDA3MTcyMDMwODkyNAgAAwAAAAIAAA",
+      "sha256": "6f6d90d7764ca40f54342a7701b5d7652cb5555b6e9f87346ccd8442cdd16fef",
+      "timeline_items": 21,
+      "accepted": 19,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    }
+  ],
+  "excluded": {
+    "missing-author-or-permalink": 19,
+    "repost": 22,
+    "other-author-or-unverified": 1
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand."
+}

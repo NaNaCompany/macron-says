@@ -1,0 +1,22 @@
+{
+  "slug": "macron-says",
+  "name": "Macron Says",
+  "wordmark": "MACRON",
+  "subject": "Emmanuel Macron",
+  "handle": "EmmanuelMacron",
+  "initials": "EM",
+  "color": "#526d86",
+  "profile": "https://x.com/EmmanuelMacron",
+  "origin": "https://nanalab.kr/macron-says",
+  "photo": null,
+  "portrait": "assets/portrait.svg",
+  "audience": "public",
+  "languages": [
+    "en"
+  ],
+  "coverage": "partial",
+  "content_mode": "official_embeds",
+  "browse_timezone": "UTC",
+  "reposts_excluded": true,
+  "translations": false
+}
